@@ -12,4 +12,5 @@
 
  # Common issues:
  `TypeError: token must be of type str, not NoneType`
+ 
  Have you made a `.env` file with the token?
